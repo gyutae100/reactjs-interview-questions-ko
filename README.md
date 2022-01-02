@@ -1,5 +1,5 @@
 # reactjs-interview-questions-ko ✨
-
+ㆍ
 <br />
 
 > 원작자인 [sudheerj](https://github.com/sudheerj) 의 동의를 구하고 진행하는 번역본 입니다.
